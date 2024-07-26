@@ -15,9 +15,9 @@
 
     // === logo change
     if (ud_header.classList.contains("sticky")) {
-      logo.src = "assets/images/logo.png";
+      logo.src = "https://praja04.github.io/assets/assets/images/logo.png";
     } else {
-      logo.src = "assets/images/logo.png";
+      logo.src = "https://praja04.github.io/assets/assets/images/logo.png";
     }
 
     // show or hide the back-top-top button
